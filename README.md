@@ -15,6 +15,6 @@ If you're looking at this on GitHub, you should find the compiled slides in the 
 2. IT以外の分野にも興味があってキャリアの進め方について悩んでいる人
 3. 海外でのキャリアを考えている人
 
-## Mwessage
+## Message
 
 ITキャリアを歩みながら様々なIT以外の分野も楽しめます！
