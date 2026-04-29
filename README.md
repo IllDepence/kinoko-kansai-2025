@@ -2,7 +2,7 @@
 
 A talk given on 2025-06-26 in Kyoto at 【非公式】きのこカンファレンス in 関西.
 
-Compile with `$ latexmk -lualatex slides.tex`.
+Compile with `$ latexmk -lualatex slides.tex`.  
 If you're looking at this on GitHub, you should find the compiled slides in the releases.
 
 ## Description
